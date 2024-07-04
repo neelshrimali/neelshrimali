@@ -10,7 +10,7 @@
 </a> -->
 
 <br />
-Hi, I'm Neel, a AI/ML Practioner and Team Lead SDE 🚀 from India. Currently, I'm learning ML, DL, CV & NLP. Beside's programming, I enjoy swimming and watching youtube/movies.
+Hi, I'm Neel, a AI/ML Practioner and Team Lead SDE 🚀 from India. Currently, I'm learning ML, DL, CV & NLP. Beside's programming, I enjoy swimming and watching youtube/movies.<br/><br/>
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
   

@@ -21,24 +21,23 @@ Hi, I'm Neel, a AI/ML Practioner and Team Lead SDE 🚀 from India. Currently, I
 👯 Looking to Collaborate On: Innovative AI/ML projects<br />
 🤔 Need Help With: Cutting-edge AI research<br />
 💬 Ask Me About: AI integration, automation, model deployment<br />
-📫 How to Reach Me: [neelshrimali1994@gmail.com]<br />
-😄 Pronouns: [Your Pronouns]<br />
-⚡ Fun Fact: Passionate about AI advancements and team empowerment<br />
-🚀 Team Lead SDE | Data Scientist | AI Innovator<br />
+📫 How to Reach Me: neelshrimali1994@gmail.com<br />
+⚡ Fun Fact: Passionate about AI advancements and automate business workflows <br />
+🚀 Team Lead SDE | Data Scientist | AI Innovator<br /><br />
 
-🔹 Tech Stack: Python, React, .NET Core, GCP, BigQuery, Snowflake, VBA
-🔹 Experience: 7+ years in software development and data science
-🔹 Specializations: AI/ML, NLP, CV, Model Development & Deployment
-🔹 Projects: Enterprise AI apps, multitier web apps, Python & VBA automations
-🔹 Leadership: Project management, teamwork, mentoring
+**🔹 Tech Stack:** Python, React, .NET Core, GCP, BigQuery, Snowflake, VBA<br />
+**🔹 Experience:** 5+ years in data science and software development<br />
+**🔹 Specializations:** AI/ML, NLP, CV, Model Development & Deployment<br />
+**🔹 Projects:** Enterprise AI apps, multitier web apps, Python & VBA automations<br />
+**🔹 Leadership:** Project management, teamwork, mentoring<br /><br />
 
-🌟 Achievements:
+**🌟 Achievements:**<br />
+🚀 AI-driven enterprise apps<br />
+🤖 Workflow automation<br />
+👥 Led cross-functional teams<br /><br />
 
-🚀 AI-driven enterprise apps
-🤖 Workflow automation
-👥 Led cross-functional teams
-📈 Passions:
+**📈 Passions:**<br />
 
-🌐 Cutting-edge AI/ML
-🛠️ Tech-driven solutions
-🌱 Team empowerment
+🌐 Cutting-edge AI/ML<br />
+🛠️ Tech-driven solutions<br />
+🌱 Automate Business Workflows<br />

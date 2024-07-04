@@ -41,4 +41,4 @@ Hi, I'm Neel, a AI/ML Practioner and Team Lead SDE 🚀 from India. Currently, I
 🛠️ Tech-driven solutions<br />
 🌱 Automate Business Workflows<br /><br />
 
-📝[Resume](https://github.com/Vasanthengineer4949/Vasanthengineer4949/blob/main/MyResumeUpdated.pdf)
+📝[Resume](https://github.com/neelshrimali/neelshrimali/blob/main/MyResumeUpdated.pdf)

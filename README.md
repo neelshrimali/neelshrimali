@@ -13,9 +13,9 @@
 
 Hi, I'm Neel, a AI/ML Practioner and Team Lead SDE 🚀 from India. Currently, I'm learning ML, DL, CV & NLP. Beside's programming, I enjoy swimming and watching youtube/movies.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuffs:**<br/>
 🔭 Currently Working On: AI-driven enterprise applications<br />
 🌱 Learning: Advanced AI/ML techniques, cloud computing<br />
 👯 Looking to Collaborate On: Innovative AI/ML projects<br />
@@ -29,12 +29,12 @@ Hi, I'm Neel, a AI/ML Practioner and Team Lead SDE 🚀 from India. Currently, I
 **🔹 Experience:** 5+ years in data science and software development<br />
 **🔹 Specializations:** AI/ML, NLP, CV, Model Development & Deployment, Web Developement<br />
 **🔹 Projects:** Enterprise AI apps, multitier web apps, Python & VBA automations<br />
-**🔹 Leadership:** Project management, teamwork, mentoring<br /><br />
+**🔹 Leadership:** Project management, teamwork, mentoring<br />
 
 **🌟 Achievements:**<br />
 🚀 AI-driven enterprise apps<br />
 🤖 Workflow automation<br />
-👥 Led cross-functional teams<br /><br />
+👥 Led cross-functional teams<br />
 
 **📈 Passions:**<br />
 

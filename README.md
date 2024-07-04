@@ -25,9 +25,9 @@ Hi, I'm Neel, a AI/ML Practioner and Team Lead SDE 🚀 from India. Currently, I
 ⚡ Fun Fact: Passionate about AI advancements and automate business workflows <br />
 🚀 Team Lead SDE | Data Scientist | AI Innovator<br /><br />
 
-**🔹 Tech Stack:** Python, React, .NET Core, GCP, BigQuery, Snowflake, VBA<br />
+**🔹 Tech Stack:** C#, VBA, Python, SQL, JavaScript, React, ASP.Net, .NET Core MVC, .NET Core Web API<br />
 **🔹 Experience:** 5+ years in data science and software development<br />
-**🔹 Specializations:** AI/ML, NLP, CV, Model Development & Deployment<br />
+**🔹 Specializations:** AI/ML, NLP, CV, Model Development & Deployment, Web Developement<br />
 **🔹 Projects:** Enterprise AI apps, multitier web apps, Python & VBA automations<br />
 **🔹 Leadership:** Project management, teamwork, mentoring<br /><br />
 

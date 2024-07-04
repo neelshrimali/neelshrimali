@@ -1,16 +1,7 @@
-### Hey 👋🏽
-
-<br/>
-
+### Hey 👋🏽, I'm Neel, a AI/ML Practioner and Team Lead SDE 🚀 from India. Currently, I'm learning ML, DL, CV & NLP. Beside's programming, I enjoy swimming and watching youtube/movies.<br/><br/>
 <a href="https://www.linkedin.com/in/neel-shrimali-ba532a193/">
   <img align="left" alt="Vasanth P LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<!-- <a href="https://www.instagram.com/vasanth_engineer_4949/">
-  <img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> -->
-
-<br /><br />
-Hi, I'm Neel, a AI/ML Practioner and Team Lead SDE 🚀 from India. Currently, I'm learning ML, DL, CV & NLP. Beside's programming, I enjoy swimming and watching youtube/movies.<br/><br/>
+</a><br/><br/>
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
   
@@ -36,7 +27,6 @@ Hi, I'm Neel, a AI/ML Practioner and Team Lead SDE 🚀 from India. Currently, I
 👥 Led cross-functional teams<br />
 
 **📈 Passions:**<br />
-
 🌐 Cutting-edge AI/ML<br />
 🛠️ Tech-driven solutions<br />
 🌱 Automate Business Workflows<br /><br />

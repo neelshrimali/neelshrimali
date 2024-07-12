@@ -16,10 +16,10 @@
 🌐 Full-stack web: React + .Net Core<br />
 🚀 Team Lead SDE | Data Scientist | AI Innovator<br /><br />
 
-**🔧 Tech Stack:**<br />
--Programming: C#, SQL, Python, VBA<br />
--Web Development: JavaScript, React, .NET Core MVC, .NET Core WebAPI<br />
--Data Science & Machine Learning: TensorFlow, PyTorch, scikit-learn, pandas, NumPy, matplotlib<br />
+**🔧 Tech Stack**:<br />
+**Programming:** C#, SQL, Python, VBA<br />
+**Web Development:** JavaScript, React, .NET Core MVC, .NET Core WebAPI<br />
+**Data Science & Machine Learning:** TensorFlow, PyTorch, scikit-learn, pandas, NumPy, matplotlib<br />
 
 **🔹 Experience:** 5+ years in data science and software development<br />
 **🔹 Specializations:** AI/ML, NLP, CV, Model Development & Deployment, Web Developement<br />

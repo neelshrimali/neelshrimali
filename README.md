@@ -6,6 +6,8 @@
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
   
 **Talking about Personal Stuffs:**<br/>
+🚀 Team Lead SDE | Data Scientist | AI Innovator<br /><br />
+🌐 Full-stack web: React + .Net Core<br />
 🔭 Currently Working On: AI-driven enterprise applications<br />
 🧠 Research: NLP + Multimodal, Advanced AI/ML techniques<br />
 👯 Looking to Collaborate On: Innovative AI/ML projects<br />
@@ -13,8 +15,7 @@
 💬 Ask Me About: AI integration, automation, model deployment<br />
 📫 How to Reach Me: neelshrimali1994@gmail.com<br />
 ⚡ Fun Fact: Passionate about AI advancements and automate business workflows <br />
-🌐 Full-stack web: React + .Net Core<br />
-🚀 Team Lead SDE | Data Scientist | AI Innovator<br /><br />
+
 
 **🔧 Tech Stack**:<br />
 **Programming:** C#, SQL, Python, VBA<br />

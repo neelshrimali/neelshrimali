@@ -5,8 +5,8 @@
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
   
-**Talking about Personal Stuffs:**<br/>
-🚀 Team Lead SDE | Data Scientist | AI Innovator<br /><br />
+**Talking about Personal Stuffs:**<br/><br/>
+🚀 Team Lead SDE | Data Scientist | AI Innovator<br />
 🌐 Full-stack web: React + .Net Core<br />
 🔭 Currently Working On: AI-driven enterprise applications<br />
 🧠 Research: NLP + Multimodal, Advanced AI/ML techniques<br />

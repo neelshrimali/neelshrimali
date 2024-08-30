@@ -1,8 +1,4 @@
-### Hey 👋🏽, I'm Neel, a AI/ML Practioner and Team Lead SDE 🚀 from India. Currently, I'm learning ML, DL, CV & NLP. Besides programming, I enjoy swimming and watching youtube/movies.<br/><br/>
-<a href="https://www.linkedin.com/in/neel-shrimali-ba532a193/">
-  <img align="left" alt="Neel Shrimali LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><br/><br/>
-
+### Hey 👋🏽, I'm Neel, a C# Developer and AI/ML Practioner 🚀 from India. Currently, I'm learning ML, DL, CV & NLP. Besides programming, I enjoy swimming and watching youtube/movies.<br/><br/>
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
   
 **Talking about Personal Stuffs:**<br/><br/>
@@ -37,7 +33,10 @@
 🛠️ Tech-driven solutions<br />
 🌱 Automate Business Workflows<br /><br />
 
-📝[Resume](https://github.com/neelshrimali/neelshrimali/blob/main/MyResumeUpdated.pdf)
+📝[Resume](https://github.com/neelshrimali/neelshrimali/blob/main/MyResumeUpdated.pdf) 
+<a href="https://www.linkedin.com/in/neel-shrimali-ba532a193/">
+  <img align="left" alt="Neel Shrimali LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a><br/>
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Things I code with:
 [![csharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)](https://fonmusic.github.io)

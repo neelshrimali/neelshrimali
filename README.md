@@ -40,8 +40,9 @@
 📝[Resume](https://github.com/neelshrimali/neelshrimali/blob/main/MyResumeUpdated.pdf)
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Things I code with:
-
-![.NET Core](https://github.com/sanjusss/aliyun-ddns/actions/workflows/dotnet-core.yml/badge.svg?branch=master)
+[![csharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)](https://fonmusic.github.io)
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
+[![EF Core](https://img.shields.io/badge/EF%20Core-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/ef/core/)
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-%23007ACC?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)

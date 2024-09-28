@@ -37,7 +37,7 @@
 
 <p align="left"> <a href="https://www.github.com/neelshrimali" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/neel-shrimali-ba532a193" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### 📝[Resume](https://github.com/neelshrimali/neelshrimali/blob/main/MyResumeUpdated.pdf) 
+### 📝[Resume](https://github.com/neelshrimali/neelshrimali/blob/main/Neel%20Shrimali.pdf)
 
 ## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Things I code with:
 

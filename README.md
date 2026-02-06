@@ -1,35 +1,31 @@
-### Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Neel, a C# Developer and AI/ML Practioner 🚀 from India. Currently, I'm learning ML, DL, CV & NLP. Besides programming, I enjoy swimming and watching youtube/movies.<br/><br/>
+### Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Neel, a Dot Net - C# Developer and AI/ML Practioner 🚀 from India. Currently, I'm learning ML, DL, CV & NLP. Besides programming, I enjoy swimming and watching youtube/movies.<br/><br/>
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
   
 **Talking about Personal Stuffs:**<br/><br/>
-🚀 Team Lead SDE | AI/ML Practitioner <br />
+🚀 Team Lead SDE<br />
 🌐 Full-stack web: React + .Net Core<br />
 🔭 Currently Working On: AI-driven enterprise applications<br />
-🧠 Research: NLP + Multimodal, Advanced AI/ML techniques<br />
-👯 Looking to Collaborate On: Innovative AI/ML projects<br />
-🤔 Need Help With: Cutting-edge AI research<br />
-💬 Ask Me About: AI integration, automation, model deployment<br />
+👯 Looking to Collaborate On: Innovative AI LLM based projects<br />
 📫 How to Reach Me: neelshrimali1994@gmail.com<br />
 ⚡ Fun Fact: Passionate about AI advancements and automate business workflows <br />
-
 
 **🔧 Tech Stack**:<br />
 **Programming:** C#, SQL, Python, VBA<br />
 **Web Development:** JavaScript, React, .NET Core MVC, .NET Core WebAPI<br />
 **Data Science & Machine Learning:** TensorFlow, PyTorch, scikit-learn, pandas, NumPy, matplotlib<br />
 
-**🔹 Experience:** 5+ years in data science and software development<br />
-**🔹 Specializations:** AI/ML, NLP, CV, Model Development & Deployment, Web Developement<br />
-**🔹 Projects:** Enterprise AI apps, multitier web apps, Python & VBA automations<br />
+**🔹 Experience:** 6+ years in software development and automations<br />
+**🔹 Specializations:** Web Developement, Automations, LLM based AI Agents<br />
+**🔹 Projects:** Enterprise AI LLM apps, multitier web apps, Python & VBA automations<br />
 **🔹 Leadership:** Project management, teamwork, mentoring<br />
 
 **🌟 Achievements:**<br />
 🚀 AI-driven enterprise apps<br />
 🤖 Workflow automation<br />
-👥 Led cross-functional teams<br />
+👥 Ability to collaborate across teams<br />
 
 **📈 Passions:**<br />
-🌐 Cutting-edge AI/ML<br />
+🌐 Cutting-edge AI Agentic workflows<br />
 🛠️ Tech-driven solutions<br />
 🌱 Automate Business Workflows<br />
 

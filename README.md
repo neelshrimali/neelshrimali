@@ -1,52 +1,72 @@
-### Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Neel, a Dot Net - C# Developer 🚀 from India. Currently, I'm learning AI/ML. Besides programming, I enjoy swimming and watching youtube/movies.<br/><br/>
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
-  
-**Talking about Personal Stuffs:**<br/><br/>
-🚀 Team Lead SDE<br />
-🌐 Full-stack web: React + .Net Core<br />
-🔭 Currently Working On: AI-driven enterprise applications<br />
-👯 Looking to Collaborate On: Innovative AI LLM based projects<br />
-📫 How to Reach Me: neelshrimali1994@gmail.com<br />
-⚡ Fun Fact: Passionate about AI advancements and automate business workflows <br />
+# Hey! 👋 I'm Neel Shrimali
 
-**🔧 Tech Stack**:<br />
-**Programming:** C#, SQL, Python, VBA<br />
-**Web Development:** JavaScript, React, .NET Core MVC, .NET Core WebAPI<br />
-**Data Science & Machine Learning:** TensorFlow, PyTorch, scikit-learn, pandas, NumPy, matplotlib<br />
+**Team Lead | Software Engineer | Full-Stack .NET | AI & GenAI**
 
-**🔹 Experience:** 7+ years in software development and automations<br />
-**🔹 Specializations:** Web Developement, Automations, LLM based AI Agents<br />
-**🔹 Projects:** Enterprise AI LLM apps, multitier web apps, Python & VBA automations<br />
-**🔹 Leadership:** Project management, teamwork, mentoring<br />
+7+ years of experience building enterprise applications, automation solutions, and AI-driven systems.
 
-**🌟 Achievements:**<br />
-🚀 AI-driven enterprise apps<br />
-🤖 Workflow automation<br />
-👥 Ability to collaborate across teams<br />
+### 🚀 About Me
 
-**📈 Passions:**<br />
-🌐 Cutting-edge AI Agentic workflows<br />
-🛠️ Tech-driven solutions<br />
-🌱 Automate Business Workflows<br />
+- 👨‍💻 Team Lead / Software Engineer
+- 🌐 Full-Stack: **C# | .NET Core | React | SQL**
+- 🤖 AI/GenAI: **LLM | RAG | AI Agents | Document Intelligence**
+- 🐍 Python for AI/ML and automation
+- ⚙️ Experienced in enterprise application development and business workflow automation
+- 🧠 Interested in building practical, scalable AI-powered solutions
 
-### Socials
+### 🔧 Tech Stack
 
-<p align="left"> <a href="https://www.github.com/neelshrimali" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/neel-shrimali-ba532a193" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+**Programming:**  
+C#, SQL, Python, JavaScript, TypeScript, VBA
 
-### 📝[Resume](https://github.com/neelshrimali/neelshrimali/blob/main/Neel%20Resume.pdf)
+**Backend:**  
+.NET Core, ASP.NET Core, Web API, REST APIs
 
-## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Things I code with:
+**Frontend:**  
+React, Redux, HTML, CSS, JavaScript
 
+**Database:**  
+SQL Server, MySQL
+
+**AI / Machine Learning:**  
+LLM, RAG, Generative AI, Langchain, AI Agents, Document Intelligence, TensorFlow, PyTorch, scikit-learn, pandas, NumPy
+
+**Tools & Technologies:**  
+Git, GitHub, Visual Studio, VS Code
+
+### 📌 Areas of Interest
+
+- Enterprise Software Development
+- Full-Stack Application Development
+- Generative AI & LLM Applications
+- RAG & AI Agents
+- Business Process Automation
+- AI-powered Enterprise Solutions
+
+### 🚀 Featured Projects
+
+- **LLM Suite** – LLM applications, RAG, document processing and AI-powered solutions
+- **Ollama Resume Parser** – Local LLM-based document/resume processing
+- **AI & Automation Projects** – Practical solutions using Python, .NET and AI
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neel%20Shrimali-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neel-shrimali-ba532a193/)
+[![GitHub](https://img.shields.io/badge/GitHub-neelshrimali-black?style=for-the-badge&logo=github)](https://github.com/neelshrimali)
+
+📧 **Email:** neelshrimali1994@gmail.com
+
+### 📄 Resume
+
+[View Resume](./Neel%20Resume.pdf)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=neelshrimali&show_icons=true&count_private=true&hide_border=true" />
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/neelshrimali"><img src="https://github-readme-stats.vercel.app/api?username=neelshrimali&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="neelshrimali's GitHub stats" /></a>
-
-<a href="http://www.github.com/neelshrimali"><img src="https://github-readme-streak-stats.herokuapp.com/?user=neelshrimali&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelshrimali&hide_border=true" />
+</p>

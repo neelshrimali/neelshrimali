@@ -1,6 +1,6 @@
 # Hey! 👋 I'm Neel Shrimali
 
-**Team Lead | Software Engineer | Full-Stack .NET | AI & GenAI**
+**Software Engineer | Full-Stack .NET | AI & GenAI**
 
 7+ years of experience building enterprise applications, automation solutions, and AI-driven systems.
 
